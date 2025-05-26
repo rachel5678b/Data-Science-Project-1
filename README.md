@@ -40,15 +40,20 @@ ASCQR_OAS_CAHPS_BY_ASC.csv: Survey results on patient care experiences from outp
 
 OAS_CAHPS.ipynb: An analysis of the survey results as provided by ASCQR_OAS_CAHPS_BY_ASC.csv
 
+
 ## Results<a name="results"></a>
 
 Most patients who participated in the Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey had positive experiences. Read more about the results here.
-
-
 
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a>
 
 Data is available to the public and provided by Centers for Medicare & Medicaid Services (CMS)
   * Data URL: https://data.cms.gov/provider-data/dataset/48nr-hqxx
+
+This project was created with guidance from Udacity Data Scientist course
+
+Blog image:
+  * Photo by Shubham Dhage, originally published on August 7, 2021
+  * Free to use under the Unsplash License
 
