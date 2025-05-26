@@ -11,6 +11,7 @@ This is the repo for a data science blog project exploring the *Outpatient and A
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
+
 All code is written in Python 3 and created using Jupyter Notebook.
 
 #### *Dependencies - the following Python packages should be installed 
@@ -33,8 +34,8 @@ The motivation for this project was to explore national complications and deaths
 4. What Measures make a consumer least likely to recommend a facility?
 
 
-
 ## File Descriptions<a name="files"></a>
+
 ASCQR_OAS_CAHPS_BY_ASC.csv: Survey results on patient care experiences from outpatient facilities and ambulatory surgical centers provided by the Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey. 
 
 OAS_CAHPS.ipynb: An analysis of the survey results as provided by ASCQR_OAS_CAHPS_BY_ASC.csv
@@ -47,3 +48,7 @@ Most patients who participated in the Outpatient and Ambulatory Surgery Consumer
 
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a>
+
+Data is available to the public and provided by Centers for Medicare & Medicaid Services (CMS)
+  * Data URL: https://data.cms.gov/provider-data/dataset/48nr-hqxx
+
