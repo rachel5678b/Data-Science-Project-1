@@ -28,8 +28,8 @@ All code is written in Python 3 and created using Jupyter Notebook.
 
 The motivation for this project was to explore national complications and deaths data following medical events using data published by Centers for Medicare & Medicaid Services (CMS). 
 
-1. In general, how do most outpatient and ambulatory surgery centers perform?
-2. What measures have the greatest impact on a hospital's rating?
+1. In general, how do most outpatient and ambulatory surgery centers rate according to the survey?
+2. What measures have the greatest impact on whether or not someone would recommend a facility?
 3. What measures make a consumer most likely to recommend a facility?
 4. What Measures make a consumer least likely to recommend a facility?
 
