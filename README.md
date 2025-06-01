@@ -12,17 +12,15 @@ This is the repo for a data science blog project exploring the *Outpatient and A
 
 ## Installation <a name="installation"></a>
 
-All code is written in Python 3 and created using Jupyter Notebook.
+All code was created using Jupyter Notebook and runs using Python 3.*.
 
-#### *Dependencies - the following Python packages should be installed 
-	* pandas
-	* NumPy
-	* scikit-learn
-	* matplotlib
-	* seaborn
+#### * Clone the git repo 
+        * git clone https://github.com/rachel5678b/Data-Science-Project-1.git
+    
+#### * Install dependencies
+        * A full list of package dependencies can be found in the included requirements.txt file, to install these dependencies, use the command below.
+            * pip install -r requirements.txt
 
-
-* Clone the repo: git clone https://github.com/rachel5678b/Data-Science-Project-1.git
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -40,6 +38,7 @@ ASCQR_OAS_CAHPS_BY_ASC.csv: Survey results on patient care experiences from outp
 
 OAS_CAHPS.ipynb: An analysis of the survey results as provided by ASCQR_OAS_CAHPS_BY_ASC.csv
 
+#### A blog post on this analysis is available at [Medium](https://medium.com/@rachelb727/whats-the-good-news-about-outpatient-facilities-in-the-usa-c2efcd338a33 "What’s the good news about outpatient facilities in the USA?")
 
 ## Results<a name="results"></a>
 
